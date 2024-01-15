@@ -3,8 +3,6 @@ import Sidebar from '../components/Sidebar'
 import SearchPost from '../components/SearchPost'
 import FilterTab from '../components/FilterTab'
 import DoubtCard from '../components/DoubtCard'
-import { useContext } from 'react'
-import { userContext } from '../context/UserContext'
 import { Icon } from '@iconify/react';
 
 
